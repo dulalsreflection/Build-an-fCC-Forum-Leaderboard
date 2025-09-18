@@ -47,7 +47,7 @@ In this lab, you will build a freeCodeCamp forum leaderboard that displays the l
 18. The `fetchData` function should request data from `forumLatest` and call `showLatestPosts` passing it the response parsed as JSON.
 19. If there's an error when fetching data, the `fetchData` function should log the error to the console. You should specifically use `console.log` for this.
 
-<h2 style="text-align: center">Tests</h2>
+<h2 align=center>Tests</h2>
 
 1. You should have a function named `timeAgo` that takes a single argument.
 2. When the time difference between the time passed as argument and the current time is `50` minutes, `timeAgo` should return `50m ago`.
