@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Build an fCC Forum Leaderboard <img src="./svg/Passed.svg" height="18px"></h1>
+<h1 style="text-align: center;">Build an fCC Forum Leaderboard <img src="./svg/Passed.svg" height="24px"></h1>
 
 Build an app that is functionally similar to this example project. Try not to copy the example project, give it your own personal style.
 
