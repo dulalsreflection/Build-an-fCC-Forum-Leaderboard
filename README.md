@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"><a href="https://www.freecodecamp.org/learn/full-stack-developer/lab-fcc-forum-leaderboard/build-an-fcc-forum-leaderboard">Build an fCC Forum Leaderboard</a> <img src="./svg/Passed.svg" height="24px"></h1>
+<h1 align=center><a href="https://www.freecodecamp.org/learn/full-stack-developer/lab-fcc-forum-leaderboard/build-an-fcc-forum-leaderboard">Build an fCC Forum Leaderboard</a> <img src="./svg/Passed.svg" height="24"></h1>
 
 Build an app that is functionally similar to this example project. Try not to copy the example project, give it your own personal style.
 
